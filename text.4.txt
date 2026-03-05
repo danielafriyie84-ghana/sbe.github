@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Products</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>Our Products</h1>
+
+<div class="products">
+
+<div class="card">
+<h3>Pineapple Juice</h3>
+<p>Fresh natural pineapple juice.</p>
+</div>
+
+<div class="card">
+<h3>Hibiscus Drink (Sobolo)</h3>
+<p>Refreshing traditional hibiscus drink.</p>
+</div>
+
+<div class="card">
+<h3>Cashew Peanut Paste</h3>
+<p>Nutritious blend of cashew and peanuts.</p>
+</div>
+
+<div class="card">
+<h3>Nutritious Pastries</h3>
+<p>Healthy pastries for snacks and breakfast.</p>
+</div>
+
+</div>
+
+</body>
+</html>

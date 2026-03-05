@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>Contact Us</h1>
+
+<p>Locations: Cape Coast & Sampa, Ghana</p>
+
+<p>
+Phone:  
++233 506 376 660  
++233 248 661 920
+</p>
+
+<p>
+<a href="https://wa.me/233506376660">
+Chat with us on WhatsApp
+</a>
+</p>
+
+</body>
+</html>

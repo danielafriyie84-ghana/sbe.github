@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About - Sigil Best Enterprise</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>About Us</h1>
+
+<p>
+Sigil Best Enterprise is a Ghanaian agro-processing business established in 2023
+and registered under the Ghana Enterprises Agency.
+</p>
+
+<p>
+Our mission is to add value to local crops, reduce post-harvest losses,
+promote healthy consumption and create sustainable livelihoods.
+</p>
+
+</body>
+</html>
